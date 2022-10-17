@@ -1,12 +1,12 @@
 {
-    mmf: "Mind and Mental Factors",
-    mmf_minds: "Minds",
-    mmf_5omnipresent: "Five Omnipresent",
-    mmf_5objasc: "Five Object Ascertaining",
-    mmf_11virtuous: "Eleven Virtuous",
-    mmf_6rootaff: "Six Root Afflictions",
-    mmf_20secaff: "Twenty Secondary Afflictions",
-    mmf_4changeable: "Four Changeable",
-    lrcm: "Lam Rim Chen Mo",
-    reasons: "Reasons and Logic"
+    "mmf": "Mind and Mental Factors",
+    "mmf_minds": "Minds",
+    "mmf_5omnipresent": "Five Omnipresent",
+    "mmf_5objasc": "Five Object Ascertaining",
+    "mmf_11virtuous": "Eleven Virtuous",
+    "mmf_6rootaff": "Six Root Afflictions",
+    "mmf_20secaff": "Twenty Secondary Afflictions",
+    "mmf_4changeable": "Four Changeable",
+    "lrcm": "Lam Rim Chen Mo",
+    "reasons": "Reasons and Logic"
   }
