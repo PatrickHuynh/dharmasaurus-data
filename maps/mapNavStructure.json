@@ -4,7 +4,9 @@
   "lrcm_relyteacher": "Relying on the Teacher",
   "lrcm_meditation": "Meditation Session Guide",
   "lrcm_phr": "Precious Human Rebirth",
-  "lrcm_death": "Mindfulness of Death",
+  "lrcm_death": "Mindfulness of Death & Future Lives",
+  "lrcm_refuge": "Refuge",
+  "lrcm_karmaeffect": "Karmic Cause and Effect",
   "ak": "Awareness and Knowers",
   "ak_objects": "Objects",
   "ak_7awarenessestksl": "Seven Types of Awareness (TKSL)",
@@ -17,5 +19,11 @@
   "mmf_20secaff": "Twenty Secondary Afflictions",
   "mmf_4changeable": "Four Changeable",
   "tenets": "Tenets",
-  "reasons": "Reasons and Logic"
+  "reasons": "Reasons and Logic",
+  "emw": "Entering the Middle Way",
+  "emw_01_generosity": "Generosity - Very Joyful",
+  "emw_02_ethics": "Ethics - Stainless",
+  "emw_03_patience": "Patience - Luminous",
+  "emw_04_joyouseffort": "Joyous Effort - Radiant",
+  "emw_05_concentration": "Concentration - Difficult to Overcome"
 }
